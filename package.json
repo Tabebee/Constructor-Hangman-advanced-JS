@@ -1,0 +1,23 @@
+{
+  "name": "constructor-hangman-advanced-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tabebee/Constructor-Hangman-advanced-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tabebee/Constructor-Hangman-advanced-JS/issues"
+  },
+  "homepage": "https://github.com/Tabebee/Constructor-Hangman-advanced-JS#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "prompt": "^1.0.0"
+  }
+}
